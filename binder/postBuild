@@ -1,0 +1,3 @@
+mkdir /home/jovyan/local
+PREFIX="/home/jovyan/local" make
+PREFIX="/home/jovyan/local" make install
